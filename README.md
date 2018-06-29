@@ -1,2 +1,3 @@
 # cypress_imports_for_coremedia
-Cypress stuff.
+
+Scripts used to check whether/how importing works in Cypress.io.
